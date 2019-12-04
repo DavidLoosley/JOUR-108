@@ -1,0 +1,26 @@
+body{
+
+	background-color: #fffef5;
+	font-family: 'Roboto', sans-serif;
+	margin: 100px 250px 250px 250px;
+
+}
+
+h1{
+
+	font-family: 'Bebas Neue', cursive;
+
+}
+
+header{
+
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+
+}
+
+footer{
+	
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+}
