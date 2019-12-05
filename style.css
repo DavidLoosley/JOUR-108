@@ -1,6 +1,6 @@
 body{
 
-	background-color: #fffef5;
+	background-color: #ffda9b;
 	font-family: 'Roboto', sans-serif;
 	margin: 100px 250px 250px 250px;
 
@@ -16,6 +16,8 @@ header{
 
 	border-top: 1px solid;
 	border-bottom: 1px solid;
+	background-color: #97ebff;
+	
 
 }
 
@@ -23,4 +25,11 @@ footer{
 	
 	border-top: 1px solid;
 	border-bottom: 1px solid;
+	background-color: #2FD6FF
+	
+}
+
+ul{
+	background-color: #ffb88f
+
 }
